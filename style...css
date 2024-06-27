@@ -1,0 +1,63 @@
+body{
+    background-color: #a28af7;
+}
+
+
+
+.tt h1{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tt{
+    margin-left: 700px;
+    margin-top: -1900px;
+}
+
+.pr img{ 
+    width: 550px;
+    height: 600;
+}
+
+.pr{
+    margin-top: 200px;
+}
+
+.prr{
+    margin-top: 50px;
+}
+
+.prrr img{
+    width: 400px;
+}
+
+.prrr{
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.rtrt a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 70px;
+}
+
+.rtrt{
+    margin-left: 720px;
+}
+
+.logo img{
+    width: 170px;
+}
+
+.logo{
+    margin-top: -97px;
+}
+
+footer {
+    color: white;
+    margin-top: 200px;
+    margin-left: 660px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+  }

@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo img{
+    align-items: center;
+    width: 160px;
+    height: 160px;
+    margin-left: 700px;
+}
+
+body{
+    background-color: black;
+}
+
+.navigation ol>a{
+    text-decoration: none;
+    color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+
+.navigation{
+    flex: 1;
+    text-align: right;
+    margin-top: -120px;
+}
+
+.navigation ol{
+    display: inline-block;
+    list-style-type: none;
+}
+.navigation a:hover{
+    color: purple;
+}
+
+.logo11 img{
+    width: 250px;
+    margin-top: -70px;
+}
+
+.pa h1{
+    color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 470px;
+    margin-bottom: -auto;
+}
+
+.image img{
+    width: 400px;
+}
+
+.imaged img{
+    width: 360px;
+    margin-left: 1200px;
+    margin-top:-380px;
+    border-radius: 70px;
+}
+
+.bouton a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    margin-left: 630px;
+}
+
+.bouton{
+    margin-top: -280px;
+    background-color: rgba(245, 245, 220, 0.74);
+    transition: background 0.5s;
+}
+
+.bouton:hover{
+    background-color: purple;
+}
+
+footer {
+    color: white;
+    margin-top: 300px;
+    margin-left: 660px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+  }
